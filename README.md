@@ -21,5 +21,7 @@
 ---
 
 <h2>Contact Me</h2>
-<img src="https://discord-readme-badge.vercel.app/api?id=735464638468063295" alt="Contact Info" href="discord.com/users/735464638468063295">
+<a href="discord.com/users/735464638468063295">
+    <img src="https://discord-readme-badge.vercel.app/api?id=735464638468063295" alt="Contact Info">
+</a>
 <div>
