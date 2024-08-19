@@ -1,7 +1,5 @@
 <h1 align="center"> 👋 Hello, I'm QuinnVN </h1>
 
----
-
 - ☀️ Hi, I'm Quinn. I'm a highschool student living in HCM City, Vietnam.
 - 🤔 My hobby are ⌨️ Coding, 📷 Photographing and 📽️ Videographing.
 - 🖥️ I'm a developers who's trying to find my place as a programmer and developing my skillset.
@@ -22,17 +20,14 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
 
----
-
 <h2 align="center"> My Stats </h2>
+
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"></a>
     <img align="inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuinnVN&theme=tokyonight&layout=compact" alt="My Stats panel"></img>
     <img align="inline" src="https://github-readme-stats.vercel.app/api?username=QuinnVN&show_icons=true&layout=compact&theme=tokyonight"></img>
 
 </div>
-
----
 
 <h2 align="center">Contact Me</h2>
 <div align= "center">
